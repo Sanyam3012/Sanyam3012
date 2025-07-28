@@ -1,5 +1,21 @@
 # 💫 About Me:
-                                                  👋 Hey there! I'm Sanyam Godha<br><br>🌟 Who am I?<br>🎓 B.Tech Computer Science Engineering Student at JECRC College<br>💡 Tech explorer | Code crafter | Lifelong learner  <br>🌱 Passionate about building real-world projects, solving problems, and growing every day<br><br>✨ What I Do:<br><br>💻 Write efficient and elegant code in C++, JavaScript, and Python.<br>🌐 Web Dev: HTML, CSS, React.js<br>🎯 Solve challenging DSA problems to hone my logic and analytical skills.<br>📖 Stay curious and keep learning new tools, frameworks, and methodologies.<br><br>🛠️ Tech Toolbox:<br>🚀 Languages: C++, Python, JavaScript<br><br>🌐 Web Dev: HTML, CSS, React.js<br><br>🧰 Tools: Git, GitHub, VS Code<br><br>📚 CS Core: DSA, OOPs, DBMS, OS
+                                                  👋 Hey there! I'm Sanyam Godha<br><br>
+  🌟 Who am I?<br>
+  🎓 B.Tech Computer Science Engineering Student at JECRC College<br>
+  💡 Tech explorer | Code crafter | Lifelong learner  <br>
+  🌱 Passionate about building real-world projects, solving problems, and growing every day<br><br>
+  
+  ✨ What I Do:<br><br>
+  💻 Write efficient and elegant code in C++, JavaScript, and Python.<br>
+  🌐 Web Dev: HTML, CSS, React.js<br>
+  🎯 Solve challenging DSA problems to hone my logic and analytical skills.<br>
+  📖 Stay curious and keep learning new tools, frameworks, and methodologies.<br><br>
+  
+  🛠️ Tech Toolbox:<br>
+  🚀 Languages: C++, Python, JavaScript<br><br>
+  🌐 Web Dev: HTML, CSS, React.js<br><br>
+  🧰 Tools: Git, GitHub, VS Code<br><br>
+  📚 CS Core: DSA, OOPs, DBMS, OS
 
 
 ## 🌐 Socials:
