@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                  👋 Hey there! I'm Sanyam Godha<br><br>
+                                                  👋 Hey there! I'm Sanyam Godha
   🌟 Who am I?<br>
   🎓 B.Tech Computer Science Engineering Student at JECRC College<br>
   💡 Tech explorer | Code crafter | Lifelong learner  <br>
